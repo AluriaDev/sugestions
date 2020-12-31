@@ -1,8 +1,8 @@
 ---
-name: Alterar um Item.
-about: Alteração de um item (Nome/Status/Passiva/Efeitos/Textura)
-title: Alteração de Item.
-labels: "\U0001F4C8 Mudança de Itens"
+name: Criar uma item.
+about: ''
+title: Criação de Item.
+labels: "➕ Criação de Itens"
 assignees: ''
 
 ---
