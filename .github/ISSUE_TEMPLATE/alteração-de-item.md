@@ -1,6 +1,6 @@
 ---
 name: Alterar um Item.
-about: Alterar um item.
+about: Alteração de um item (Nome/Status/Passiva/Efeitos/Textura)
 title: Alteração de Item.
 labels: "\U0001F4C8 Mudança de Itens"
 assignees: ''
