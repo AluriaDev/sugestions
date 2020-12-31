@@ -1,5 +1,5 @@
 ---
-name: alteração_de_item
+name: Alterar um Item.
 about: Alterar um item.
 title: Alteração de Item.
 labels: "\U0001F4C8 Mudança de Itens"
