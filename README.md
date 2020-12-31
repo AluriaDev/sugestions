@@ -27,8 +27,8 @@ Do you have any ideas for suggestions that we can implement in Aluria? Send them
 #
 
 ### Contributors
-[<img alt="zkingboos" src="https://avatars3.githubusercontent.com/u/42500187?v=4&s=117&width=117">](https://github.com/zkingboos) |[<img alt="sasuked" src="https://avatars3.githubusercontent.com/u/69403805?v=4&s=117&width=117">](https://github.com/sasuked) |
-:---:|:---:|
-[zkingboos](https://github.com/zkingboos)|[sasuked](https://github.com/sasuked)|
+[<img alt="zkingboos" src="https://avatars3.githubusercontent.com/u/42500187?v=4&s=117&width=117">](https://github.com/zkingboos) |[<img alt="sasuked" src="https://avatars3.githubusercontent.com/u/69403805?v=4&s=117&width=117">](https://github.com/sasuked) |[<img alt="dollyXtoddy" src="https://avatars1.githubusercontent.com/u/37268195?v=4&s=117&width=117">](https://github.com/dollyXtoddy) |
+:---:|:---:|:---:|
+[zkingboos](https://github.com/zkingboos)|[sasuked](https://github.com/sasuked)|[dollyXtoddy](https://github.com/dollyXtoddy)|
 
 _Aluria Online (c)_ 
