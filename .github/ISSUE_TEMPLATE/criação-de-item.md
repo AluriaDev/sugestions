@@ -1,5 +1,5 @@
 ---
-name: Criar uma item.
+name: Criar um item.
 about: Crie um item para o servidor.
 title: Criação de Item.
 labels: "➕ Criação de Itens"
