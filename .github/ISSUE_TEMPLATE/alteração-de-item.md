@@ -2,7 +2,7 @@
 name: alteração_de_item
 about: Alterar um item.
 title: Alteração de Item.
-labels: 📈 Mudança de Itens
+labels: "\U0001F4C8 Mudança de Itens"
 assignees: ''
 
 ---
