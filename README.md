@@ -1,2 +1,2 @@
-# sugestions
+# suggestions
 Sugestões para o jogo.
