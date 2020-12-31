@@ -1,4 +1,4 @@
-## Summary
+# Summary
 
 * Introduction
   * [Português](#Introdução)
@@ -8,7 +8,7 @@
   * [English](#Suggestion-Request)
 * [Contributors](#Contributors)
 
-### Introdução (Português do Brasil)
+## Introdução (Português do Brasil)
 Repositório focado em novas ideias e sugestões para tornar nosso projeto o melhor
 
 ### Sugerir uma Ideia
@@ -17,7 +17,7 @@ Você tem ideias de sugestões para que possamos implementar no Aluria? Envie-as
 
 #
 
-### Introduction (English)
+## Introduction (English)
 Repository focused on new ideas and suggestions to make our project the best
 
 ### Suggestion Request
